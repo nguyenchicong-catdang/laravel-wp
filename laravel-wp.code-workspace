@@ -8,6 +8,12 @@
       "name": "LARAVEL-WP",
       "path": ".", // Đây là /home/cong/git/packages-app
     },
+    // laravel-app/vendor/ncc/laravel-wp-local-packages
+    // /home/cong/git/laravel-wp/laravel-app/vendor/ncc/laravel-wp-local-packages
+    {
+      "name": "LARAVEL-WP-PACKAGES",
+      "path": "../laravel-wp-local-packages", // Đây là /home/cong/git/packages-app
+    },
   ],
   "settings": {},
 }
