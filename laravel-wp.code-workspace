@@ -2,17 +2,19 @@
   "folders": [
     {
       "name": "DOCUMENT",
-      "path": "../document", // Đây là /home/cong/git/packages-app
+      "path": "../document",
     },
     {
-      "name": "LARAVEL-WP",
-      "path": ".", // Đây là /home/cong/git/packages-app
+      "name": "CODE-WORKSPACE",
+      "path": ".",
     },
-    // laravel-app/vendor/ncc/laravel-wp-local-packages
-    // /home/cong/git/laravel-wp/laravel-app/vendor/ncc/laravel-wp-local-packages
     {
-      "name": "LARAVEL-WP-PACKAGES",
-      "path": "../laravel-wp-local-packages", // Đây là /home/cong/git/packages-app
+      "name": "FOLDER GIT LARAVEL-WP-PACKAGES",
+      "path": "../laravel-wp-local-packages",
+    },
+    {
+      "name": "-->LARAVEL-WP-PACKAGES WP",
+      "path": "../laravel-wp-local-packages/Wp",
     },
   ],
   "settings": {},
