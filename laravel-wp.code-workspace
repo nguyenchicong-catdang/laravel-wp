@@ -16,6 +16,10 @@
       "name": "-->LARAVEL-WP-PACKAGES WP",
       "path": "./laravel-app/vendor/ncc/laravel-wp-local-packages/Wp",
     },
+    {
+      "name": "-->cloudflare-test",
+      "path": "./laravel-app/vendor/ncc/laravel-wp-local-packages/cloudflare-test",
+    },
   ],
   "settings": {
     // Đoạn này giúp ẩn thư mục ở cột Explorer nhưng Git vẫn quét thấy
